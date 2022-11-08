@@ -1,0 +1,17 @@
+C:\Users\Aleexx\Desktop\TP_Integrador\Tp_Github\Entities\bin\Debug\Entities.dll
+C:\Users\Aleexx\Desktop\TP_Integrador\Tp_Github\Entities\bin\Debug\Entities.pdb
+C:\Users\Aleexx\Desktop\TP_Integrador\Tp_Github\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Aleexx\Desktop\TP_Integrador\Tp_Github\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Aleexx\Desktop\TP_Integrador\Tp_Github\Entities\obj\Debug\Entities.dll
+C:\Users\Aleexx\Desktop\TP_Integrador\Tp_Github\Entities\obj\Debug\Entities.pdb
+C:\Users\mcollado\Source\Repos\TP_Integrador\Tp_Github\Entities\bin\Debug\Entities.dll
+C:\Users\mcollado\Source\Repos\TP_Integrador\Tp_Github\Entities\bin\Debug\Entities.pdb
+C:\Users\mcollado\Source\Repos\TP_Integrador\Tp_Github\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\mcollado\Source\Repos\TP_Integrador\Tp_Github\Entities\obj\Debug\Entities.dll
+C:\Users\mcollado\Source\Repos\TP_Integrador\Tp_Github\Entities\obj\Debug\Entities.pdb
+C:\Users\ari_a\source\Repos\TP_Integrador\Tp_Github\Entities\bin\Debug\Entities.dll
+C:\Users\ari_a\source\Repos\TP_Integrador\Tp_Github\Entities\bin\Debug\Entities.pdb
+C:\Users\ari_a\source\Repos\TP_Integrador\Tp_Github\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\ari_a\source\Repos\TP_Integrador\Tp_Github\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ari_a\source\Repos\TP_Integrador\Tp_Github\Entities\obj\Debug\Entities.dll
+C:\Users\ari_a\source\Repos\TP_Integrador\Tp_Github\Entities\obj\Debug\Entities.pdb
